@@ -82,7 +82,7 @@ The dataset includes information related to:
 ```bash
 Customer-Shopping-Trends-Analysis/
 │
-├── dataset/
 ├── sql_queries/
+├── dataset/
 ├── README.md
 └── insights_summary/
